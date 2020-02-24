@@ -4,6 +4,6 @@
 
 then
 
-#docker build -u <container-name> .
+#docker build -u container-name .
 
-#docker run -p <port:port> --name <container-name> <imageid>
+#docker run -p port:port --name container-name imageid
