@@ -1,6 +1,6 @@
 # Dockerfile with Nodejslts
 
-1.Pull your app and dockerfile in same folder
+Put your app and dockerfile in same folder
 
 then
 
